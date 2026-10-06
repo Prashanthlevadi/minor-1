@@ -1,0 +1,40 @@
+{
+  "test_cases": [
+    {
+      "id": "TC-01",
+      "name": "Numerical Payment Term Discrepancy",
+      "doc_a_text": "The Client agrees to remit full payment for all invoices within 30 days of the invoice date.",
+      "doc_b_text": "The Client agrees to remit full payment for all invoices within 15 days of the invoice date.",
+      "expected_contradiction": true,
+      "expected_severity": "HIGH",
+      "expected_category": "Financial"
+    },
+    {
+      "id": "TC-02",
+      "name": "Refund Policy Opposition",
+      "doc_a_text": "Clients are eligible for a 100% full refund if cancellation notice is provided in writing within 14 days.",
+      "doc_b_text": "All purchases and service fees are strictly non-refundable upon contract execution.",
+      "expected_contradiction": true,
+      "expected_severity": "HIGH",
+      "expected_category": "Financial"
+    },
+    {
+      "id": "TC-03",
+      "name": "Consistent Security Agreement",
+      "doc_a_text": "All customer data must be encrypted at rest using AES-256 standards.",
+      "doc_b_text": "Customer data is encrypted at rest using AES-256 encryption protocol.",
+      "expected_contradiction": false,
+      "expected_severity": "CONSISTENT",
+      "expected_category": "Technical"
+    },
+    {
+      "id": "TC-04",
+      "name": "Liability Cap Divergence",
+      "doc_a_text": "The total aggregate liability of the Provider shall be capped at $50,000 USD.",
+      "doc_b_text": "The total aggregate liability of the Provider shall be capped at $100,000 USD.",
+      "expected_contradiction": true,
+      "expected_severity": "HIGH",
+      "expected_category": "Legal"
+    }
+  ]
+}

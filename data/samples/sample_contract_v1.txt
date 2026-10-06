@@ -1,0 +1,16 @@
+MASTER SERVICES AGREEMENT (VERSION 1.0)
+
+1. PAYMENT TERMS & SCHEDULE
+The Client agrees to remit full payment for all invoices within 30 days of the invoice date. Late payments shall incur a interest penalty rate of 1.5% per month.
+
+2. REFUND & CANCELLATION POLICY
+Clients are eligible for a 100% full refund if cancellation notice is provided in writing within 14 days of contract execution. No refunds will be provided after 14 days.
+
+3. LIMITATION OF LIABILITY
+The total aggregate liability of the Provider under this Agreement shall be strictly capped at $50,000 USD or the total fees paid in the preceding 6 months.
+
+4. TERMINATION NOTICE
+Either party may terminate this agreement without cause by providing at least 30 days written notice to the other party.
+
+5. CONFIDENTIALITY
+All proprietary software code and client data shall remain confidential for a period of 3 years following agreement termination.
